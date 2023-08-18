@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Fernando
+- 👋 Hi, I’m @FTradernando
 - 👀 I’m interested in Trading and Coding
 - 💞️ I’m looking to collaborate on Java/Python/HTML/CSS/JavaScript projects
-- 📫 How to reach me: fernandoromeror4@gmail.com
